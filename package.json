@@ -1,0 +1,21 @@
+{
+"name": "customer-portal-application",
+"version": "1.0.0",
+"description": "Banking Customer Portal",
+"main": "server.js",
+"scripts": {
+"start": "node server.js",
+"test": "jest --runInBand"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+"type": "commonjs",
+"dependencies": {
+"express": "^5.2.1"
+},
+"devDependencies": {
+"jest": "^30.2.0",
+"supertest": "^7.1.4"
+}
+}
